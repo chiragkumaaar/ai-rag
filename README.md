@@ -26,7 +26,7 @@ Streamlit Chat UI
 # ⚙️ Setup Instructions
 ## 1️⃣ Clone the Repository
 git clone (https://github.com/chiragkumaaar/ai-rag.git)   
-cd agentic-ai-rag
+cd ai-rag
 ## 2️⃣ Create Virtual Environment
 python -m venv venv       
 venv\Scripts\activate        
